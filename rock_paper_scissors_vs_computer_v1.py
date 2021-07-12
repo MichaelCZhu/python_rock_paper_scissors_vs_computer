@@ -17,7 +17,7 @@ player1 = input()
 print("\n")
 
 
-#computer ai input
+#computer player
 computer_player = random.randint(0,2)
 
 # 0 = rock
