@@ -13,7 +13,7 @@ print("\n")
 #player1 input
 print("Enter your choice:")
 print("\n")
-player1 = input()
+player1 = input().lower()
 print("\n")
 
 
